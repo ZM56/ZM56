@@ -1,5 +1,5 @@
 <!-- Профиль GitHub: ZM56 -->
-<h1 align="center">👋 Привет! Я <a href="https://github.com/ZM56">Земеров Владислав</a> — DevOps Engineer</h1>
+<h1 align="center">👋 Привет! Я <a href="https://github.com/ZM56">Земеров Владислав</a> [DevOps Engineer]</h1>
 <h3 align="center">Инфраструктура, автоматизация и немного хаоса ☁️🚀</h3>
 
 <p align="center">
@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Infrastructure+as+Code;Automation+%26+Observability;Kubernetes+%7C+Ansible+%7C+Terraform;Clouds+%26+Monitoring+%26+AI+Integration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=00B8FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Infrastructure+as+Code;Automation+%26+Observability;Kubernetes+%7C+Ansible+%7C+Terraform;Clouds+%26+Monitoring+%26+AI+Integration" alt="Typing SVG" />
 </p>
 
 ---
@@ -89,5 +89,4 @@
 
 <p align="center">
   <i>“Infrastructure is code, automation is art.”</i><br/>
-  <b>— ZM</b>
 </p>
