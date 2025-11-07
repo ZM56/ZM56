@@ -12,8 +12,13 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=00B8FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Infrastructure+as+Code;Automation+%26+Observability;Kubernetes+%7C+Ansible+%7C+Terraform;Clouds+%26+Monitoring+%26+AI+Integration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=8E2DE2&center=true&vCenter=true&width=600&lines=DevOps+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=00B8FF&center=true&vCenter=true&width=600&lines=Infrastructure+as+Code" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=FF4D8B&center=true&vCenter=true&width=600&lines=Automation+%26+Observability" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Kubernetes+%7C+Ansible+%7C+Terraform" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=F9D423&center=true&vCenter=true&width=600&lines=Clouds+%26+Monitoring+%26+AI+Integration" />
 </p>
+
 
 ---
 
