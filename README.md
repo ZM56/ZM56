@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=8E2DE2&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Infrastructure+as+Code;Automation+%26+Observability;Kubernetes+%7C+Ansible+%7C+Terraform;Clouds+%26+Monitoring+%26+AI+Integration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Infrastructure+as+Code;Automation+%26+Observability;Kubernetes+%7C+Ansible+%7C+Terraform;Clouds+%26+Monitoring+%26+AI+Integration" alt="Typing SVG" />
 </p>
 
 
