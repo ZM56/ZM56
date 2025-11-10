@@ -39,7 +39,7 @@
 ### 🧩 DevOps & CI/CD
 `GitLab CI` • `Jenkins` • `GitHub Actions` • `ArgoCD` • `AWX`  
 `Docker` • `Docker Compose` • `Kubernetes` • `Helm` • `Istio`  
-`Terraform` • `Ansible (roles, galaxy, collections)` • `IaC (Git+Ansible+vCenter)`
+`Terraform` • `Ansible (roles, galaxy, collections)` • `IaC`
 
 ### 📊 Monitoring & Security
 `Prometheus` • `Grafana` • `Loki` • `Zabbix`  
@@ -47,10 +47,10 @@
 `Kaspersky Security Suite` • `FreeIPA cluster` • `Maxpatrol` • `SearchInform`
 
 ### 💾 Databases
-`PostgreSQL` • `MySQL` • `MSSQL Cluster` • `noSQL DBs`
+`PostgreSQL` • `MySQL` • `MSSQL Cluster` • `Mongo`
 
 ### 🧠 Tools & Platforms
-`Atlassian (Jira, Confluence, Bitbucket)` • `VMWare vCenter / vSphere / ESXi`  
+`Atlassian (Jira, Confluence, Bitbucket)` • `VMWare vSphere / ESXi`  
 `Nextcloud` • `Asterisk` • `Exim` • `SCCM` • `AD / GPO / DNS / DHCP`
 
 ### 🧠 AI / Automation
